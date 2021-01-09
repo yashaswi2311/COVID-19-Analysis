@@ -1,6 +1,5 @@
-flask==1.1.2
 pandas==1.0.3
-numpy==1.18.3
-gunicorn==20.0.4
-celery==4.4.2
-redis==3.5.0
+pillow==2.1.0
+mapclassify==2.4.0
+descartes==1.1.0
+geopandas==0.8.0
